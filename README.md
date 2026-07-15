@@ -14,15 +14,15 @@ Wszystkie wydania: **[strona Releases →](../../releases)**. Format **EPUB** (K
 
 | Tom | Tytuł | Rozdziały | Plik |
 |:---:|-------|:---------:|:-----|
-| 1 | Metody Racjonalności | 1–21 | [⬇️ EPUB](../../releases/download/tom-1/hpmor-pl-tom-1.epub) |
-| 2 | Gry Profesora | 22–37 | [⬇️ EPUB](../../releases/download/tom-2/hpmor-pl-tom-2.epub) |
-| 3 | Cienie Śmierci | 38–64 | [⬇️ EPUB](../../releases/download/tom-3/hpmor-pl-tom-3.epub) |
-| 4 | Wezwanie Feniksa | 65–85 | [⬇️ EPUB](../../releases/download/tom-4/hpmor-pl-tom-4.epub) |
-| 5 | Ostatni Wróg | 86–99 | [⬇️ EPUB](../../releases/download/tom-5/hpmor-pl-tom-5.epub) |
-| 6 | Kamień Filozoficzny | 100–122 | [⬇️ EPUB](../../releases/download/tom-6/hpmor-pl-tom-6.epub) |
+| 1 | Metody Racjonalności | 1–21 | ⏳ IN PROGRESS |
+| 2 | Gry Profesora | 22–37 | ⏳ IN PROGRESS |
+| 3 | Cienie Śmierci | 38–64 | ⏳ IN PROGRESS |
+| 4 | Wezwanie Feniksa | 65–85 | ⏳ IN PROGRESS |
+| 5 | Ostatni Wróg | 86–99 | ⏳ IN PROGRESS |
+| 6 | Kamień Filozoficzny | 100–122 | ⏳ IN PROGRESS |
 
 Podział na sześć tomów zaproponował sam autor.
-**Tłumaczenie jest w toku** — każdy link do pobrania aktywuje się z chwilą wydania danego tomu (wcześniej prowadzi do strony 404).
+**Tłumaczenie jest w toku** — „IN PROGRESS" oznacza tom jeszcze niewydany; link do pobrania pojawia się w tym miejscu z chwilą wydania danego tomu.
 
 ## Zgłaszanie błędów i uwag
 
