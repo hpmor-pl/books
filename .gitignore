@@ -1,0 +1,3 @@
+# Epuby żyją w Releases, nie w drzewie repo.
+*.epub
+.DS_Store
