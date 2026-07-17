@@ -14,7 +14,7 @@ Wszystkie wydania: **[strona Releases →](../../releases)**. Format **EPUB** (K
 
 | Tom | Tytuł | Rozdziały | Plik |
 |:---:|-------|:---------:|:-----|
-| 1 | Metody Racjonalności | 1–21 | ⏳ IN PROGRESS |
+| 1 | Metody Racjonalności | 1–21 | [⬇️ EPUB](../../releases/download/tom-1/hpmor-pl-tom-1.epub) |
 | 2 | Gry Profesora | 22–37 | ⏳ IN PROGRESS |
 | 3 | Cienie Śmierci | 38–64 | ⏳ IN PROGRESS |
 | 4 | Wezwanie Feniksa | 65–85 | ⏳ IN PROGRESS |
