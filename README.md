@@ -24,6 +24,8 @@ Wszystkie wydania: **[strona Releases →](../../releases)**. Format **EPUB** (K
 Podział na sześć tomów zaproponował sam autor.
 **Tłumaczenie jest w toku** — „IN PROGRESS" oznacza tom jeszcze niewydany; link do pobrania pojawia się w tym miejscu z chwilą wydania danego tomu.
 
+Linki pobierania są **stałe** — wydane tomy dostają też okresowe transze poprawek, podmieniane pod tym samym linkiem. Co się zmieniło i którą wersję masz: **[CHANGELOG](CHANGELOG.md)** (numer wydania znajdziesz też na końcu epuba, w „Nocie wydania").
+
 ## Zgłaszanie błędów i uwag
 
 Literówka, błąd, zdanie, które zgrzyta? Każda para oczu pomaga:
